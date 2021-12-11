@@ -1,6 +1,6 @@
 # SentiMo
 
-![Alt Text](Gallery.gif)
+![Alt Text](SentiMo_art.jpg)
 
 <h3 align="center">~When feelings can be painted~</h3>
 
