@@ -22,7 +22,7 @@ SentiMo takes us through an imagination journey on how people feelings expressed
 
 ## How we built it?
 
-We used different models and tools to present our work: natural-language-processing, python, PyTorch, CAN, GAN, juypter-notebook, adobe-after-effects, adobe-illustrator, adobe-premiere-pro and photoshop.
+We used different models and tools to present our work: natural-language-processing, python, C++, PyTorch, CAN, GAN, juypter-notebook, adobe-after-effects, adobe-illustrator, adobe-premiere-pro and photoshop.
 
 ## What we learned
 
